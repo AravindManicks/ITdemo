@@ -1,0 +1,18 @@
+header#main-header.et-fixed-header,
+#main-header {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important
+}
+
+.container:before {
+    background-color: transparent !important
+}
+
+.et_pb_widget_area_right {
+    border-left: 0 !important
+}
+
+.et_pb_widget_area_left {
+    border-right: 0 !important
+}

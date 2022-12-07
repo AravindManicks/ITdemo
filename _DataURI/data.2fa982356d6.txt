@@ -1,0 +1,1 @@
+chrome-extension://bnkifneleaknlodbdncgnpbdffngdgjo/js/install.js
